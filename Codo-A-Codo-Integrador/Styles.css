@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.Datos{
+    background-image: url(./Img/ba1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+
+.Oradores{
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 330px;
+    margin-right: 330px;
+}
+
+.SubDiv{
+    margin-left: 1100px;
+    margin-top: 150px;
+    width: 500px;
+    height: 200px;
+    text-align: end;
+}
+
+.DataBs{
+    padding-top: 50px;
+    width: auto;
+}
+
+.SeOrador{
+    padding: 30%;
+    padding-top: 0px;
+    padding-bottom: 50px;
+    justify-content: space-between;
+}
+
+.col{
+    padding-bottom: 10px;
+}
+
+.PieDePag{
+    width: auto;
+    padding: 25px;
+    color: white;
+    background: rgb(51, 51, 150);
+    text-align: center;
+}
